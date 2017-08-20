@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "C:\\Users\\kappa\\AndroidStudioProjects\\lab4_code\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4\\kiwi.png",
+        "source": "C:\\Users\\kappa\\AndroidStudioProjects\\lab4_code\\app\\src\\main\\res\\mipmap-mdpi\\kiwi.png"
+    },
+    {
+        "merged": "C:\\Users\\kappa\\AndroidStudioProjects\\lab4_code\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4\\dynamic.png",
+        "source": "C:\\Users\\kappa\\AndroidStudioProjects\\lab4_code\\app\\src\\main\\res\\mipmap-mdpi\\dynamic.png"
+    },
+    {
+        "merged": "C:\\Users\\kappa\\AndroidStudioProjects\\lab4_code\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4\\cherry.png",
+        "source": "C:\\Users\\kappa\\AndroidStudioProjects\\lab4_code\\app\\src\\main\\res\\mipmap-mdpi\\cherry.png"
+    },
+    {
+        "merged": "C:\\Users\\kappa\\AndroidStudioProjects\\lab4_code\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4\\pear.png",
+        "source": "C:\\Users\\kappa\\AndroidStudioProjects\\lab4_code\\app\\src\\main\\res\\mipmap-mdpi\\pear.png"
+    },
+    {
+        "merged": "C:\\Users\\kappa\\AndroidStudioProjects\\lab4_code\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4\\watermelon.png",
+        "source": "C:\\Users\\kappa\\AndroidStudioProjects\\lab4_code\\app\\src\\main\\res\\mipmap-mdpi\\watermelon.png"
+    },
+    {
+        "merged": "C:\\Users\\kappa\\AndroidStudioProjects\\lab4_code\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\kappa\\AndroidStudioProjects\\lab4_code\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\kappa\\AndroidStudioProjects\\lab4_code\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4\\apple.png",
+        "source": "C:\\Users\\kappa\\AndroidStudioProjects\\lab4_code\\app\\src\\main\\res\\mipmap-mdpi\\apple.png"
+    },
+    {
+        "merged": "C:\\Users\\kappa\\AndroidStudioProjects\\lab4_code\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4\\banana.png",
+        "source": "C:\\Users\\kappa\\AndroidStudioProjects\\lab4_code\\app\\src\\main\\res\\mipmap-mdpi\\banana.png"
+    },
+    {
+        "merged": "C:\\Users\\kappa\\AndroidStudioProjects\\lab4_code\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4\\coco.png",
+        "source": "C:\\Users\\kappa\\AndroidStudioProjects\\lab4_code\\app\\src\\main\\res\\mipmap-mdpi\\coco.png"
+    },
+    {
+        "merged": "C:\\Users\\kappa\\AndroidStudioProjects\\lab4_code\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4\\strawberry.png",
+        "source": "C:\\Users\\kappa\\AndroidStudioProjects\\lab4_code\\app\\src\\main\\res\\mipmap-mdpi\\strawberry.png"
+    },
+    {
+        "merged": "C:\\Users\\kappa\\AndroidStudioProjects\\lab4_code\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4\\orange.png",
+        "source": "C:\\Users\\kappa\\AndroidStudioProjects\\lab4_code\\app\\src\\main\\res\\mipmap-mdpi\\orange.png"
+    }
+]

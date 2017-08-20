@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "C:\\Users\\kappa\\AndroidStudioProjects\\lab4_code\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\banana.png",
+        "source": "C:\\Users\\kappa\\AndroidStudioProjects\\lab4_code\\app\\src\\main\\res\\mipmap-hdpi\\banana.png"
+    },
+    {
+        "merged": "C:\\Users\\kappa\\AndroidStudioProjects\\lab4_code\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\strawberry.png",
+        "source": "C:\\Users\\kappa\\AndroidStudioProjects\\lab4_code\\app\\src\\main\\res\\mipmap-hdpi\\strawberry.png"
+    },
+    {
+        "merged": "C:\\Users\\kappa\\AndroidStudioProjects\\lab4_code\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\orange.png",
+        "source": "C:\\Users\\kappa\\AndroidStudioProjects\\lab4_code\\app\\src\\main\\res\\mipmap-hdpi\\orange.png"
+    },
+    {
+        "merged": "C:\\Users\\kappa\\AndroidStudioProjects\\lab4_code\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\kappa\\AndroidStudioProjects\\lab4_code\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\kappa\\AndroidStudioProjects\\lab4_code\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\kiwi.png",
+        "source": "C:\\Users\\kappa\\AndroidStudioProjects\\lab4_code\\app\\src\\main\\res\\mipmap-hdpi\\kiwi.png"
+    },
+    {
+        "merged": "C:\\Users\\kappa\\AndroidStudioProjects\\lab4_code\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\watermelon.png",
+        "source": "C:\\Users\\kappa\\AndroidStudioProjects\\lab4_code\\app\\src\\main\\res\\mipmap-hdpi\\watermelon.png"
+    },
+    {
+        "merged": "C:\\Users\\kappa\\AndroidStudioProjects\\lab4_code\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\coco.png",
+        "source": "C:\\Users\\kappa\\AndroidStudioProjects\\lab4_code\\app\\src\\main\\res\\mipmap-hdpi\\coco.png"
+    },
+    {
+        "merged": "C:\\Users\\kappa\\AndroidStudioProjects\\lab4_code\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\dynamic.png",
+        "source": "C:\\Users\\kappa\\AndroidStudioProjects\\lab4_code\\app\\src\\main\\res\\mipmap-hdpi\\dynamic.png"
+    },
+    {
+        "merged": "C:\\Users\\kappa\\AndroidStudioProjects\\lab4_code\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\pear.png",
+        "source": "C:\\Users\\kappa\\AndroidStudioProjects\\lab4_code\\app\\src\\main\\res\\mipmap-hdpi\\pear.png"
+    },
+    {
+        "merged": "C:\\Users\\kappa\\AndroidStudioProjects\\lab4_code\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\apple.png",
+        "source": "C:\\Users\\kappa\\AndroidStudioProjects\\lab4_code\\app\\src\\main\\res\\mipmap-hdpi\\apple.png"
+    },
+    {
+        "merged": "C:\\Users\\kappa\\AndroidStudioProjects\\lab4_code\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\cherry.png",
+        "source": "C:\\Users\\kappa\\AndroidStudioProjects\\lab4_code\\app\\src\\main\\res\\mipmap-hdpi\\cherry.png"
+    }
+]
